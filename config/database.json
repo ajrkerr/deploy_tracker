@@ -1,0 +1,15 @@
+{
+  "test": {
+    "hostname": "localhost",
+    "username": "vagrant",
+    "port": 5434,
+    "database": "deploy_tracker_test"
+  },
+
+  "development": {
+    "hostname": "localhost",
+    "username": "vagrant",
+    "port": 5434,
+    "database": "deploy_tracker_development"
+  }
+}
